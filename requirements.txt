@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+boto3
+python-multipart
+Pillow
+fastapi[all] 
+starlette
+mangum
